@@ -558,6 +558,226 @@
       { "id": "q8o3", "text": "Promoting Kazakhs into administrative and political leadership roles." },
       { "id": "q8o4", "text": "Encouraging Russian officials to maintain their old colonial privileges." }
     ]
+  },
+  {
+    "id": 51,
+    "question": "Which argument is correct based on the text? STEVEN SABOL - Alikhan Bokeikhanov, a pivotal figure in the development of Kazakh national identity 1) Main idea: “a scientist and a politician” Sabol argues that Soviet historiography reduced Alikhan Bokeikhanov to the leader of the “bourgeois-nationalist” Alash Orda and largely ignored his scientific, historical, and ethnographic work. The chapter insists that focusing only on his political career produces a shallow portrait and misses how his scholarship and activism together shaped Kazakh nationalist thought.",
+    "correct": ["q51o2"],
+    "options": [
+      { "id": "q51o1", "text": "A) Soviet historians highlighted his ethnography as his main legacy." },
+      { "id": "q51o2", "text": "B) A full understanding requires linking his science and politics." },
+      { "id": "q51o3", "text": "C) He avoided politics and worked only as a scientist." },
+      { "id": "q51o4", "text": "D) His influence was limited to forestry education." }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "2) Intersection of science and activism: evidence-based critique The text emphasizes that Bokeikhanov’s arguments against Russian resettlement were not only emotional nationalist appeals. He drew on long-term fieldwork, statistics, and expedition data (Shcherbina and Shvetsov missions) to demonstrate economic risks in the steppe, including soil and rainfall constraints and harmful land policies affecting Kazakh livelihoods.",
+    "correct": ["q52o2"],
+    "options": [
+      { "id": "q52o1", "text": "A) He relied mainly on folklore and poetry to oppose resettlement." },
+      { "id": "q52o2", "text": "B) His critiques were supported by scientific observation and statistics." },
+      { "id": "q52o3", "text": "C) He rejected data-gathering because it served the empire." },
+      { "id": "q52o4", "text": "D) He defended resettlement as beneficial for Kazakhs." }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "3) Strategic alliances vs. cultural identity: Kadets as tactics In 1905, Bokeikhanov and other Kazakh intellectuals affiliated with the Constitutional Democrats (Kadets). The text states this was largely tactical: without alliances, their new political union lacked resources and influence to push Kazakh demands into legal political programs. It was not simply evidence of shared ideology or cultural assimilation.",
+    "correct": ["q53o2"],
+    "options": [
+      { "id": "q53o1", "text": "A) The alliance proved Kazakhs wanted to abandon national demands." },
+      { "id": "q53o2", "text": "B) The alliance was tactical to access politics and promote Kazakh aims." },
+      { "id": "q53o3", "text": "C) The alliance happened because Kazakhs fully shared Kadet ideology." },
+      { "id": "q53o4", "text": "D) The alliance replaced Kazakh demands with Russian-only priorities." }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "4) “Zapadniki” vs. “Pan-Islamists”: core division In his 1910 work “Kirgizy,” Bokeikhanov describes a split within the Kazakh intelligentsia: secular Westernizers (“zapadniki”) versus those oriented to the Muslim world (Panturkists–Panislamists). He argued Russification pushed Kazakhs toward Islam and predicted two parties might emerge. Yet he promoted secular education and cultural publishing to strengthen unity.",
+    "correct": ["q54o3"],
+    "options": [
+      { "id": "q54o1", "text": "A) He claimed the masses, not intellectuals, caused the split." },
+      { "id": "q54o2", "text": "B) He denied any division inside Kazakh society." },
+      { "id": "q54o3", "text": "C) He linked Russification to a growing split and urged secular education." },
+      { "id": "q54o4", "text": "D) He argued Pan-Islamists were a tiny minority with no influence." }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "5) Political repression and limits of participation (1906–1907) The text shows that Bokeikhanov repeatedly faced arrests without trial and lost chances for parliamentary work. Even elected to the First Duma, he arrived as the Tsar dissolved it (July 9, 1906). Later, the June 3, 1907 law barred Kazakhs and other minorities from future Duma participation, shrinking legal political avenues.",
+    "correct": ["q55o3"],
+    "options": [
+      { "id": "q55o1", "text": "A) He served many years in the First Duma as an active deputy." },
+      { "id": "q55o2", "text": "B) Political participation expanded steadily for Kazakhs after 1906." },
+      { "id": "q55o3", "text": "C) Arrests and the 1907 law sharply restricted Kazakh representation." },
+      { "id": "q55o4", "text": "D) He was arrested only once and then worked freely in politics." }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "6) Petition politics (Karkaraly petition, 1905): key demands A 1905 petition from Karkaralinsk uezd (over 14,500 signatures) demanded reforms: more local schools (Kazakh and Russian) to fight illiteracy, more control of spiritual affairs and abolition of censorship of religious books, permission for a Kazakh-language newspaper, Kazakh representation in the Duma, Kazakh use in court, and recognition of Kazakh lands as property.",
+    "correct": ["q56o3"],
+    "options": [
+      { "id": "q56o1", "text": "A) The petition demanded banning Kazakh-language education." },
+      { "id": "q56o2", "text": "B) The petition focused only on military service and taxes." },
+      { "id": "q56o3", "text": "C) The petition combined education, land rights, language, and representation." },
+      { "id": "q56o4", "text": "D) The petition rejected any religious freedom demands." }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "7) Land statistics as political argument (desiatin evidence) Bokeikhanov used expedition estimates to argue that livestock breeding required 90–192 desiatin, while the average Kazakh nomadic household held only 6.3 desiatin, often on winter sites. This forced early family break-ups to search for pastures and increased vulnerability. His point was that “majority population” did not mean economic well-being under colonization.",
+    "correct": ["q57o2"],
+    "options": [
+      { "id": "q57o1", "text": "A) He argued Kazakhs had more land than they needed." },
+      { "id": "q57o2", "text": "B) He used land statistics to show Kazakh allocations were insufficient." },
+      { "id": "q57o3", "text": "C) He claimed agriculture already produced most Kazakh income." },
+      { "id": "q57o4", "text": "D) He stated settlers reduced Russian farming success, not Kazakh livelihoods." }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "8) Administration, language, and “translator power” The text argues that Russian administrative changes harmed traditional judicial practices: judges were selected by Russians, Kazakh rights were ignored in mixed disputes, and officials often did not know Kazakh language. Transactions required translators, and “clever translators” could seize power in the uezd. This deepened resentment and reinforced negative stereotypes.",
+    "correct": ["q58o3"],
+    "options": [
+      { "id": "q58o1", "text": "A) Russian officials generally mastered Kazakh and reduced conflicts." },
+      { "id": "q58o2", "text": "B) Translators had no influence and were rarely needed." },
+      { "id": "q58o3", "text": "C) Language barriers and imposed courts intensified injustice and tension." },
+      { "id": "q58o4", "text": "D) Kazakhs refused translators because they preferred Russian courts." }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "9) Cultural nation-building through the press (Kazak newspaper, 1913) Bokeikhanov helped establish the newspaper Kazak in 1913 with Baitursynov and Dulatov. The text notes it became the most successful independent Kazakh-language periodical and carried most of his works (200+ pieces). A key editorial aim was to invent a single nation with a common past, united by language and traditions.",
+    "correct": ["q59o2"],
+    "options": [
+      { "id": "q59o1", "text": "A) The newspaper avoided politics and focused only on science." },
+      { "id": "q59o2", "text": "B) Its goal was to unite Kazakhs by shared language, traditions, and past." },
+      { "id": "q59o3", "text": "C) It was controlled by tsarist officials to promote Russification." },
+      { "id": "q59o4", "text": "D) He published only a few texts in it due to censorship." }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "10) “1905 freedom” and fragile unity Bokeikhanov observed that 1905 created moments of public meetings, language publishing, and cultural opportunity, which encouraged hopes of unity. Yet he believed unity was fragile: tribal ties and ideological splits could re-emerge, especially after later revolutions. He argued that only a political offensive transcending tribal divisions could unite Kazakhs under common interests and goals.",
+    "correct": ["q60o2"],
+    "options": [
+      { "id": "q60o1", "text": "A) He believed tribal ties were irrelevant and unity guaranteed." },
+      { "id": "q60o2", "text": "B) He argued unity required overcoming tribal divisions through political action." },
+      { "id": "q60o3", "text": "C) He said the key issue was only literature, not politics." },
+      { "id": "q60o4", "text": "D) He claimed Kazakhs had full electoral rights after 1907." }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "11) The Ethics of Pragmatism in 1916 (supporting mobilization) At the start of World War I, Bokeikhanov questioned the war and even praised German Socialists’ anti-war position. Yet during the 1916 revolt he and other Kazakh leaders supported the mobilization order and negotiated terms. The text frames this as pragmatic bargaining to extract concessions from a desperate state, not loyal support for tsarism.",
+    "correct": ["q61o2"],
+    "options": [
+      { "id": "q61o1", "text": "A) He supported mobilization because he fully trusted the tsarist regime." },
+      { "id": "q61o2", "text": "B) He supported mobilization to bargain for concessions and better terms." },
+      { "id": "q61o3", "text": "C) He supported mobilization because he rejected any negotiations." },
+      { "id": "q61o4", "text": "D) He supported mobilization to prevent Kazakhs from gaining rights." }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "12) Why 1916 protests turned violent By 1916, economic pressure intensified: livestock and commodities were often seized without pay (over 260,000 head in 1914–1915), taxes rose 3–5%, and Kazakhs were expected to work for free on settlers’ farms. When conscription of Central Asians was announced in June 1916, anger exploded into violent revolt across Turkestan and the steppe.",
+    "correct": ["q62o2"],
+    "options": [
+      { "id": "q62o1", "text": "A) Violence began because immigration sharply increased in 1916." },
+      { "id": "q62o2", "text": "B) Violence was mainly caused by economic seizures, taxes, and conscription." },
+      { "id": "q62o3", "text": "C) Violence started because Kazakhs were given generous land grants." },
+      { "id": "q62o4", "text": "D) Violence started because the war improved Kazakh living standards." }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "13) Cavalry units vs. rear labor: the broken expectation In early 1916, Bokeikhanov and Baitursynov went to Petrograd hoping Kazakhs would serve in cavalry units and receive land for service like Cossacks. They believed the issue was postponed after meeting the War Minister. Instead, the June order drafted Kazakhs into rear labor units. This mismatch helped trigger outrage and revolt.",
+    "correct": ["q63o2"],
+    "options": [
+      { "id": "q63o1", "text": "A) The government agreed to cavalry service with land, reducing tensions." },
+      { "id": "q63o2", "text": "B) Kazakhs were drafted into rear labor, contradicting negotiated hopes." },
+      { "id": "q63o3", "text": "C) Kazakhs were exempted from any war contribution after June 1916." },
+      { "id": "q63o4", "text": "D) The leaders demanded only higher taxes, not changes in service type." }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "14) Moral judgment of violence: challenging a biased interpretation A Western scholar (Edward Sokol) described the 1916 revolt as a “return” to ancestral violence and raiding. The text criticizes this as unfair because it ignores Russian violence too, including atrocities such as a Russian individual capturing and murdering Kazakhs and seizing thousands of animals. The passage stresses violence was committed by both sides.",
+    "correct": ["q64o3"],
+    "options": [
+      { "id": "q64o1", "text": "A) The text supports Sokol’s view as the best explanation of 1916." },
+      { "id": "q64o2", "text": "B) The text argues violence was one-sided and only Kazakhs committed atrocities." },
+      { "id": "q64o3", "text": "C) The text challenges Sokol and highlights Russian violence and atrocities." },
+      { "id": "q64o4", "text": "D) The text claims there was no violence, only peaceful protests." }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "15) “Social revolutionary,” not political revolutionary Soviet scholars criticized Bokeikhanov for lacking “revolutionary appeal,” and the text agrees in a narrow sense: he was not a political revolutionary. However, he sought deep change through political processes (Duma, congresses) and internal modernization. His strategy emphasized education, literature, and equitable land settlement rather than violent overthrow.",
+    "correct": ["q65o3"],
+    "options": [
+      { "id": "q65o1", "text": "A) He was a Bolshevik-style revolutionary advocating armed uprising." },
+      { "id": "q65o2", "text": "B) He rejected any social change and defended the old order." },
+      { "id": "q65o3", "text": "C) He pursued reform through political participation and modernization." },
+      { "id": "q65o4", "text": "D) He opposed education because it weakened Kazakh identity." }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "16) February 1917: freedom and responsibility After the February Revolution, Bokeikhanov celebrated “freedom, equality, and brotherhood” and urged support for the new government, arguing that if it was to be strong, Kazakhs must also be strong. An article with Dulatov and Shoqaev admitted Kazakhs “did nothing” to gain freedom and must now help protect it through unity and action.",
+    "correct": ["q66o2"],
+    "options": [
+      { "id": "q66o1", "text": "A) He rejected the Provisional Government and demanded immediate war." },
+      { "id": "q66o2", "text": "B) He urged Kazakhs to support the new government and strengthen it." },
+      { "id": "q66o3", "text": "C) He argued freedom came only from Kazakh armed revolt." },
+      { "id": "q66o4", "text": "D) He claimed equality was impossible in a multi-national Russia." }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "17) The Collapse of Federalism: Kadet limits on autonomy In 1917, Kadet leadership insisted regional autonomy must not “destroy” the unity of the Russian state and rejected dividing the country into sovereign units. Bokeikhanov grew frustrated: cultural and national autonomy were subordinated to “state unity,” and the party’s stance gained a “chauvinistic flavor.” This contributed to his resignation from the Kadets in June.",
+    "correct": ["q67o2"],
+    "options": [
+      { "id": "q67o1", "text": "A) Kadets supported full sovereignty for national regions, pleasing Bokeikhanov." },
+      { "id": "q67o2", "text": "B) Kadets prioritized state unity, limiting autonomy, pushing him to resign." },
+      { "id": "q67o3", "text": "C) Kadets ended migration to the steppe, satisfying Kazakh land demands." },
+      { "id": "q67o4", "text": "D) Kadets promoted independence for Alash already in spring 1917." }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "18) Why the land issue drove political realignment Steppe congresses demanded an immediate stop to resettlement and fair land transfer. Yet Kadet congress resolutions were ambiguous: they claimed land belonged to the “toiling” agrarian population while also supporting broad organization of resettlement. The text presents this as decisive: Kadet indecision on land and autonomy helped push Bokeikhanov toward building Alash as a separate party.",
+    "correct": ["q68o2"],
+    "options": [
+      { "id": "q68o1", "text": "A) Kadet clarity on land reform convinced him to stay loyal." },
+      { "id": "q68o2", "text": "B) Kadet ambiguity on land and migration fueled his break and new party-building." },
+      { "id": "q68o3", "text": "C) Land was a minor issue compared to fashioning new symbols." },
+      { "id": "q68o4", "text": "D) Resettlement ended in 1917, so land ceased to matter politically." }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "19) Federalism vs. independence: the 1917 dilemma At the First All-Kazakh Congress (July 1917), autonomy was debated. Some favored full independence, but Bokeikhanov argued territorial and cultural autonomy within a democratic federated Russia was best. He saw Kazakhs’ future with Russia if equality in politics, economics, society, and education could be achieved. Federalism was a strategic path, not surrender of identity.",
+    "correct": ["q69o2"],
+    "options": [
+      { "id": "q69o1", "text": "A) He always demanded immediate independence and rejected federation." },
+      { "id": "q69o2", "text": "B) He supported autonomy within a federated democratic Russia as the best course." },
+      { "id": "q69o3", "text": "C) He opposed equality reforms and wanted isolation from all politics." },
+      { "id": "q69o4", "text": "D) He argued only religious schools could protect Kazakh society." }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "20) From federal hopes to independence: the Constituent Assembly crisis Alash leaders initially expected autonomy under the Provisional Government, and their program (published November 14, 1917) promoted civil rights, women’s rights, land restrictions, courts, militia, and Kazakh language education. When the Bolsheviks blocked the Constituent Assembly from convening (which Bokeikhanov had been elected to attend), Alash declared independence and condemned Bolshevik rule.",
+    "correct": ["q70o2"],
+    "options": [
+      { "id": "q70o1", "text": "A) Independence was declared because the Provisional Government granted full autonomy." },
+      { "id": "q70o2", "text": "B) Independence followed Bolshevik refusal to allow the Constituent Assembly to meet." },
+      { "id": "q70o3", "text": "C) Independence followed a treaty giving Alash control of all Russia." },
+      { "id": "q70o4", "text": "D) Independence occurred because Alash accepted Bolshevik political principles." }
+    ]
   }
 ]
 
