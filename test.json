@@ -74,7 +74,7 @@
   {
     "id": 7,
     "question": "Based on the lecture, what did the Turks and Sogdians have in common that made their partnership on the Silk Road so successful? (correct answers: 2)",
-    "correct": ["q7o4", "q7o5"],
+    "correct": ["q7o4", "q7o2"],
     "options": [
       { "id": "q7o1", "text": "They were both skilled blacksmiths and iron producers." },
       { "id": "q7o2", "text": "They both wanted to control the trade routes to Byzantium." },
