@@ -1,786 +1,497 @@
 [
   {
     "id": 1,
-    "question": "A historian finds a set of ancient clay pots and bowls from a settlement in Kazakhstan. According to the text, what specific type of information could these artifacts provide about the people who made them? (correct answers: 2)",
-    "correct": ["q1o4", "q1o5"],
+    "question": "What does CPU stand for? (correct answers: 1)",
+    "correct": ["q1o1"],
     "options": [
-      { "id": "q1o1", "text": "The identity of the Kazakh" },
-      { "id": "q1o2", "text": "The location of a burial mound" },
-      { "id": "q1o3", "text": "Their political system" },
-      { "id": "q1o4", "text": "What they ate" },
-      { "id": "q1o5", "text": "What their daily life was like" }
+      {"id": "q1o1", "text": "Central Processing Unit"},
+      {"id": "q1o2", "text": "Computer Personal Unit"},
+      {"id": "q1o3", "text": "Central Power Unit"},
+      {"id": "q1o4", "text": "Computer Processing Unit"}
     ]
   },
   {
     "id": 2,
-    "question": "Analyze the significance of Kazakhstan's geography as a \"bridge\" between different civilizations. Which two specific historical events or developments best support this idea? (correct answers: 2)",
-    "correct": ["q2o2", "q2o5"],
+    "question": "What is RAM used for? (correct answers: 1)",
+    "correct": ["q2o2"],
     "options": [
-      { "id": "q2o1", "text": "The domestication of horses in the Botai culture." },
-      { "id": "q2o2", "text": "The Turkic Khaganate." },
-      { "id": "q2o3", "text": "The discovery of the Golden Man from Issyk." },
-      { "id": "q2o4", "text": "The development of early stone tools." },
-      { "id": "q2o5", "text": "The location of medieval cities like Otrar and Taraz on the Silk Road." }
+      {"id": "q2o1", "text": "Long-term storage"},
+      {"id": "q2o2", "text": "Temporary memory"},
+      {"id": "q2o3", "text": "Running the operating system"},
+      {"id": "q2o4", "text": "Connecting to the internet"}
     ]
   },
   {
     "id": 3,
-    "question": "Which two archaeological discoveries in Kazakhstan are highlighted as being of global importance? (correct answers: 2)",
-    "correct": ["q3o4", "q3o5"],
+    "question": "What does HTTP stand for? (correct answers: 1)",
+    "correct": ["q3o1"],
     "options": [
-      { "id": "q3o1", "text": "The ancient city of Otrar" },
-      { "id": "q3o2", "text": "The burial mounds (kurgans)" },
-      { "id": "q3o3", "text": "Petroglyphs in northern Kazakhstan" },
-      { "id": "q3o4", "text": "Evidence of horse domestication by the Botai culture" },
-      { "id": "q3o5", "text": "The Golden Man from Issyk" }
+      {"id": "q3o1", "text": "HyperText Transfer Protocol"},
+      {"id": "q3o2", "text": "High Tech Transfer Protocol"},
+      {"id": "q3o3", "text": "Hyper Transfer Text Protocol"},
+      {"id": "q3o4", "text": "Home Text Transfer Protocol"}
     ]
   },
   {
     "id": 4,
-    "question": "An historian from the 19th century wrote a book arguing that nomadic cultures were \"backward.\" A modern historian reads this book. Based on the \"new approach\" mentioned in the text, how should the modern historian assess this older work? (correct answers: 1)",
-    "correct": ["q4o5"],
+    "question": "Which device connects your computer to the internet? (correct answers: 1)",
+    "correct": ["q4o2"],
     "options": [
-      { "id": "q4o1", "text": "The modern historian should agree with the book, as it is a historical record." },
-      { "id": "q4o2", "text": "The modern historian should completely reject the book as incorrect." },
-      { "id": "q4o3", "text": "The modern historian should only use parts of the book that describe trade along the Silk Road." },
-      { "id": "q4o4", "text": "The modern historian should argue that the old view of nomadic cultures is the only correct one." },
-      { "id": "q4o5", "text": "The modern historian should use the book as a primary source, but apply the civilizational approach." }
+      {"id": "q4o1", "text": "Keyboard"},
+      {"id": "q4o2", "text": "Modem or router"},
+      {"id": "q4o3", "text": "Monitor"},
+      {"id": "q4o4", "text": "Printer"}
     ]
   },
   {
     "id": 5,
-    "question": "The \"civilizational approach\" provides a new view of history. What is the main conclusion of this approach regarding nomadic cultures? (correct answers: 1)",
-    "correct": ["q5o4"],
+    "question": "What is an operating system? (correct answers: 1)",
+    "correct": ["q5o3"],
     "options": [
-      { "id": "q5o1", "text": "The Great Steppe civilization was a direct result of the Scientific Revolution." },
-      { "id": "q5o2", "text": "Nomadic societies were more \"backward\" than settled ones, which is why they eventually disappeared." },
-      { "id": "q5o3", "text": "Nomadic cultures were primarily focused on trade and had no political systems." },
-      { "id": "q5o4", "text": "Nomadic societies were advanced and made significant contributions to world history." },
-      { "id": "q5o5", "text": "The civilizational approach is only relevant for understanding the Golden Horde." }
+      {"id": "q5o1", "text": "A web browser"},
+      {"id": "q5o2", "text": "A type of virus"},
+      {"id": "q5o3", "text": "Software that runs the computer"},
+      {"id": "q5o4", "text": "A hardware component"}
     ]
   },
   {
     "id": 6,
-    "question": "Analyze the motivations behind the Turkic alliance with the Sasanian Empire against the Hephthalites. Which two long-term goals did this victory accomplish for the Turks? (correct answers: 2)",
-    "correct": ["q6o2", "q6o3"],
+    "question": "What does 'www' mean in a web address? (correct answers: 1)",
+    "correct": ["q6o1"],
     "options": [
-      { "id": "q6o1", "text": "It allowed the Turks to conquer the Sasanian Empire." },
-      { "id": "q6o2", "text": "It gave the Turks control over important trade routes." },
-      { "id": "q6o3", "text": "It established the Turks as a major military power in Central Asia." },
-      { "id": "q6o4", "text": "It secured a long-lasting and peaceful alliance with Iran." },
-      { "id": "q6o5", "text": "It made all the tribes of the region submit to the Turks." }
+      {"id": "q6o1", "text": "World Wide Web"},
+      {"id": "q6o2", "text": "World Web Wide"},
+      {"id": "q6o3", "text": "Web Wide World"},
+      {"id": "q6o4", "text": "Wide World Web"}
     ]
   },
   {
     "id": 7,
-    "question": "Based on the lecture, what did the Turks and Sogdians have in common that made their partnership on the Silk Road so successful? (correct answers: 2)",
-    "correct": ["q7o4", "q7o2"],
+    "question": "What is a file extension? (correct answers: 1)",
+    "correct": ["q7o1"],
     "options": [
-      { "id": "q7o1", "text": "They were both skilled blacksmiths and iron producers." },
-      { "id": "q7o2", "text": "They both wanted to control the trade routes to Byzantium." },
-      { "id": "q7o3", "text": "They were both nomadic peoples." },
-      { "id": "q7o4", "text": "They both benefited from the increased silk trade." },
-      { "id": "q7o5", "text": "They both had a shared enemy in the Hephthalites." }
+      {"id": "q7o1", "text": "Letters after the dot in a filename"},
+      {"id": "q7o2", "text": "The size of the file"},
+      {"id": "q7o3", "text": "The folder name"},
+      {"id": "q7o4", "text": "The date created"}
     ]
   },
   {
     "id": 8,
-    "question": "Which two archaeological discoveries are highlighted as being of global importance? (correct answers: 2)",
-    "correct": ["q8o2", "q8o4"],
+    "question": "Which is an example of hardware? (correct answers: 1)",
+    "correct": ["q8o2"],
     "options": [
-      { "id": "q8o1", "text": "Petroglyphs in northern Kazakhstan" },
-      { "id": "q8o2", "text": "The Golden Man from Issyk" },
-      { "id": "q8o3", "text": "The burial mounds (kurgans)" },
-      { "id": "q8o4", "text": "Evidence of horse domestication by the Botai culture" },
-      { "id": "q8o5", "text": "The ancient city of Otrar" }
+      {"id": "q8o1", "text": "Microsoft Word"},
+      {"id": "q8o2", "text": "Hard drive"},
+      {"id": "q8o3", "text": "Google Chrome"},
+      {"id": "q8o4", "text": "Windows 11"}
     ]
   },
   {
     "id": 9,
-    "question": "Based on the lecture, which two geographical locations would have been a primary area of conflict for the Western Turkic Khaganate after the death of Tong Yabghu? (correct answers: 2)",
-    "correct": ["q9o3", "q9o4"],
+    "question": "What does USB stand for? (correct answers: 1)",
+    "correct": ["q9o2"],
     "options": [
-      { "id": "q9o1", "text": "The Altai Mountains" },
-      { "id": "q9o2", "text": "The Gobi Desert" },
-      { "id": "q9o3", "text": "The Syr Darya basin" },
-      { "id": "q9o4", "text": "Zhetysu" },
-      { "id": "q9o5", "text": "The Caucasus region" }
+      {"id": "q9o1", "text": "Universal Serial Bus"},
+      {"id": "q9o2", "text": "Universal System Bus"},
+      {"id": "q9o3", "text": "United Serial Bus"},
+      {"id": "q9o4", "text": "Ultra Speed Bus"}
     ]
   },
   {
     "id": 10,
-    "question": "According to the lecture, which two factors contributed most directly to the decline and eventual destruction of the Oghuz state? (correct answers: 2)",
-    "correct": ["q10o2", "q10o4"],
+    "question": "What is Wi-Fi? (correct answers: 1)",
+    "correct": ["q10o4"],
     "options": [
-      { "id": "q10o1", "text": "The Khazars and the Kievan Rus destroyed the Oghuz state." },
-      { "id": "q10o2", "text": "Heavy taxes and constant wars caused internal revolts." },
-      { "id": "q10o3", "text": "The Oghuz migrated from Zhetysu to Eastern Europe." },
-      { "id": "q10o4", "text": "The Kipchaks attacked from the east and conquered the Oghuz." },
-      { "id": "q10o5", "text": "The rise of the Karakhanid dynasty in Central Asia." }
+      {"id": "q10o1", "text": "A type of cable"},
+      {"id": "q10o2", "text": "Wired internet"},
+      {"id": "q10o3", "text": "A software program"},
+      {"id": "q10o4", "text": "Wireless internet"}
     ]
   },
   {
     "id": 11,
-    "question": "Which statements correctly describe the governance, culture, and later development of the Golden Horde? (2 correct answers)",
-    "correct": ["q11o1", "q11o3"],
+    "question": "What does 'GB' stand for in storage? (correct answers: 1)",
+    "correct": ["q11o1"],
     "options": [
-      { "id": "q11o1", "text": "Batu Khan founded Sarai on the Volga River and supported Muslim merchants, earning the title Sayin Khan." },
-      { "id": "q11o2", "text": "Mengü-Temür established independence by building statues in his own name and supporting French trading colonies." },
-      { "id": "q11o3", "text": "Berke Khan converted to Islam and allied with the Mamluks against the Ilkhanate in Persia." },
-      { "id": "q11o4", "text": "Özbek Khan banned religious tolerance and persecuted Russian Orthodox priests." }
+      {"id": "q11o1", "text": "Gigabyte"},
+      {"id": "q11o2", "text": "Gigabit"},
+      {"id": "q11o3", "text": "Great byte"},
+      {"id": "q11o4", "text": "Global byte"}
     ]
   },
   {
     "id": 12,
-    "question": "Which statements best describe the origins and early formation of the Kazakh Khanate? (2 correct answers)",
-    "correct": ["q12o1", "q12o2"],
+    "question": "Which key restarts a Windows computer? (correct answers: 1)",
+    "correct": ["q12o2"],
     "options": [
-      { "id": "q12o1", "text": "The Uzbek-Qazaqs expanded across the steppe, gradually defeating the Shibanid Uzbeks and absorbing Noghay lands." },
-      { "id": "q12o2", "text": "Kerey and Janibek led a breakaway group from Abu'l-Khayr's rule and migrated to Semirech'e with Esen Bugha Khan's support." },
-      { "id": "q12o3", "text": "The term \"qazaq\" originally referred to people who participated in trade and made qymyz." },
-      { "id": "q12o4", "text": "The Kazakh Khanate was established directly after Abu'l-Khayr's alliance with the Timurids in 1451." }
-    ]
-  },
-  {
-    "id": 13,
-    "question": "Which statements best describe the rise and territorial expansion of the Golden Horde under Batu Khan? (2 correct answers)",
-    "correct": ["q13o1", "q13o3"],
-    "options": [
-      { "id": "q13o1", "text": "The Mongol armies invaded Poland, Hungary, and Moravia but withdrew in 1242 after the death of Ögödei Khan." },
-      { "id": "q13o2", "text": "By 1242, the Golden Horde controlled the vast region from Germany to Poland." },
-      { "id": "q13o3", "text": "Batu Khan's campaigns in Eastern Europe began after the quriltai of 1235 and led to the fall of Kiev in 1240." },
-      { "id": "q13o4", "text": "The Golden Horde was established in China and included most of Central Asia and the Far East." }
-    ]
-  },
-  {
-    "id": 14,
-    "question": "Which statements best summarize how Genghis Khan unified the Mongols and built his empire? (2 correct answers)",
-    "correct": ["q14o1", "q14o4"],
-    "options": [
-      { "id": "q14o1", "text": "He promoted loyal and skilled leaders from conquered tribes to key positions." },
-      { "id": "q14o2", "text": "He ruled alone, refusing to share power with anyone outside his family." },
-      { "id": "q14o3", "text": "He began his rule by conquering the Khwarazmian Empire before uniting the Mongols." },
-      { "id": "q14o4", "text": "He gained power by defeating rival tribes such as the Merkits, Tatars, and Naimans." }
-    ]
-  },
-  {
-    "id": 15,
-    "question": "Which statements correctly summarize the economic and cultural transformations of the Kazakh steppe in the 18th–19th centuries? (2 correct answers)",
-    "correct": ["q15o2", "q15o4"],
-    "options": [
-      { "id": "q15o1", "text": "Quick christianization, supported by Tatars and Bashkirs, strengthened education, mosque building, and literacy." },
-      { "id": "q15o2", "text": "Trade routes through Orenburg, Petropavlovsk, and Semipalatinsk linked Kazakhs to Russian markets." },
-      { "id": "q15o3", "text": "Russian authorities banned all forms of Islamic education and closed mosques across the steppe." },
-      { "id": "q15o4", "text": "Russian settlement and commercial exchange encouraged partial sedentarization and a multi-ethnic society." }
-    ]
-  },
-  {
-    "id": 16,
-    "question": "Which of the following statements correctly describe how the Mongol Empire was divided after Genghis Khan's death? (2 correct answers)",
-    "correct": ["q16o1", "q16o4"],
-    "options": [
-      { "id": "q16o1", "text": "His empire was divided among his four sons, known as the \"four pillars.\"" },
-      { "id": "q16o2", "text": "Chaghatai received Russian lands, while Jochi was assigned to conquer Persia." },
-      { "id": "q16o3", "text": "Jochi ruled the Mongol heartlands and received control over Mongolia." },
-      { "id": "q16o4", "text": "Ögödei became the supreme khan and received the lands west of Lake Balkhash." }
-    ]
-  },
-  {
-    "id": 17,
-    "question": "Which statements best explain how the Blue Horde gained independence and how the Golden Horde declined in the 14th century? (2 correct answers)",
-    "correct": ["q17o1", "q17o3"],
-    "options": [
-      { "id": "q17o1", "text": "The Blue Horde became independent when Mubārak-khoja minted his own coins in Sïghanaq in 1366–68." },
-      { "id": "q17o2", "text": "Toqtamïsh restored and controlled the Golden Horde even after conflicts with Amir Timur." },
-      { "id": "q17o3", "text": "Urus Khan of the Blue Horde ruled independently from Sarai, marking political sovereignty." },
-      { "id": "q17o4", "text": "The Golden Horde remained unified and stable during the bulghaq (time of troubles) from 1359 to 1380." }
+      {"id": "q12o1", "text": "F1"},
+      {"id": "q12o2", "text": "Ctrl + Alt + Delete"},
+      {"id": "q12o3", "text": "Shift + F5"},
+      {"id": "q12o4", "text": "Alt + Tab"}
     ]
   },
   {
     "id": 18,
-    "question": "Which statements correctly describe the emergence of new states after the fall of the Golden Horde? (2 correct answers)",
-    "correct": ["q18o2", "q18o4"],
+    "question": "What is the main function of a mouse? (correct answers: 1)",
+    "correct": ["q18o2"],
     "options": [
-      { "id": "q18o1", "text": "Uzbek Khan ruled Mogulistan and became the founder of the Timurids." },
-      { "id": "q18o2", "text": "The nomadic Uzbeks descended from the Ulus of Shiban, linked to Jochi's fifth son." },
-      { "id": "q18o3", "text": "Abu'l-Khayr Khan expanded his state by capturing China and strengthening control over the Ulus of Shiban." },
-      { "id": "q18o4", "text": "The Golden Horde fragmented into several successor states such as Kazan, Crimea, Astrakhan, and the Nogai Horde." }
+      {"id": "q18o1", "text": "To type text"},
+      {"id": "q18o2", "text": "To point and click"},
+      {"id": "q18o3", "text": "To print documents"},
+      {"id": "q18o4", "text": "To store files"}
     ]
   },
   {
     "id": 19,
-    "question": "Which statements correctly describe the social and cultural consequences of Russian colonial rule in Kazakhstan? (2 correct answers)",
-    "correct": ["q19o2", "q19o4"],
+    "question": "What does 'email' stand for? (correct answers: 1)",
+    "correct": ["q19o3"],
     "options": [
-      { "id": "q19o1", "text": "The colonial conditions decreased the power and cultural acumen of figures like Abai Kunanbaev, Ibrai Altynsarin, and Chokan Valikhanov." },
-      { "id": "q19o2", "text": "The 1916 revolt was fueled by discontent over land seizures and forced conscription." },
-      { "id": "q19o3", "text": "The Alash Orda movement rejected all forms of education and Western influence in favor of a return to nomadism." },
-      { "id": "q19o4", "text": "Land loss and new administrative systems broke the old elite structure and created new classes such as the bais and zhataks." }
+      {"id": "q19o1", "text": "Electric mail"},
+      {"id": "q19o2", "text": "Easy mail"},
+      {"id": "q19o3", "text": "Electronic mail"},
+      {"id": "q19o4", "text": "E-mail"}
     ]
   },
   {
     "id": 20,
-    "question": "Which statements accurately summarize the role of religion, politics, and resistance movements in Central Asia during this period? (2 correct answers)",
-    "correct": ["q20o1", "q20o2"],
+    "question": "Which is an example of software? (correct answers: 1)",
+    "correct": ["q20o1"],
     "options": [
-      { "id": "q20o1", "text": "The Khojas of Kashgaria led repeated revolts against Qing rule, supported at times by the Khanate of Kokand." },
-      { "id": "q20o2", "text": "The Afaqi and Ishaqi factions among the Khojas remained deeply divided, weakening resistance to the Qing dynasty." },
-      { "id": "q20o3", "text": "The rulers of Kokand consistently supported the Khojas' struggle against Qing China without interruption." },
-      { "id": "q20o4", "text": "Khoqand cooperated with the Qing China to combat separatist fanatical Uyghur Khojas, instead of trade benefits." }
+      {"id": "q20o1", "text": "Microsoft Windows"},
+      {"id": "q20o2", "text": "Keyboard"},
+      {"id": "q20o3", "text": "Monitor"},
+      {"id": "q20o4", "text": "USB drive"}
     ]
   },
   {
     "id": 21,
-    "question": "Which statements best describe the main stages and goals of Russian administrative reforms in Kazakhstan during the 19th century? (2 correct answers)",
-    "correct": ["q21o2", "q21o4"],
+    "question": "What does 'URL' stand for? (correct answers: 1)",
+    "correct": ["q21o1"],
     "options": [
-      { "id": "q21o1", "text": "Speransky's reforms of 1822 and Uyama's \"Asiatic Russia\" established full Kazakh independence from Russian control." },
-      { "id": "q21o2", "text": "The 1822 \"Statute on the Siberian Kirgiz\" abolished the khanates and introduced elected local administrators under Russian supervision." },
-      { "id": "q21o3", "text": "These reforms aimed to preserve traditional clan-based governance, instead of a direct rule." },
-      { "id": "q21o4", "text": "The 1868 and 1886 Statutes created centralized Governor-Generalships and declared all Kazakh land as state property." }
+      {"id": "q21o1", "text": "Uniform Resource Locator"},
+      {"id": "q21o2", "text": "Universal Reference Link"},
+      {"id": "q21o3", "text": "Unique Resource Location"},
+      {"id": "q21o4", "text": "Uniform Resource Link"}
     ]
   },
   {
     "id": 22,
-    "question": "Which statements best describe the causes and course of the Kazakh–Dzungar Wars? (2 correct answers)",
-    "correct": ["q22o3", "q22o1"],
+    "question": "What is a folder? (correct answers: 1)",
+    "correct": ["q22o4"],
     "options": [
-      { "id": "q22o1", "text": "The Kazakhs achieved an early victory at the Battle of Orbulaq in 1643 but later suffered during the \"Years of the Great Disaster.\"" },
-      { "id": "q22o2", "text": "The Dzungar Khanate defeated the Qing Empire and expanded into Chinese territory after 1755." },
-      { "id": "q22o3", "text": "The Dzungar Khanate sought to control Central Asian pastures and trade routes, using superior firearms and artillery." },
-      { "id": "q22o4", "text": "The Kazakh Juzes united at the Ordabasy council in 1726, leading to major defeats at Bulanty and Ańyraqaı." }
+      {"id": "q22o1", "text": "A type of file"},
+      {"id": "q22o2", "text": "A hardware device"},
+      {"id": "q22o3", "text": "A web address"},
+      {"id": "q22o4", "text": "A container for files"}
     ]
   },
   {
     "id": 23,
-    "question": "Which statements correctly describe the Kazakh Khanate's diplomatic strategies and foreign relations in the mid-18th century? (2 correct answers)",
-    "correct": ["q23o1", "q23o3"],
+    "question": "Which saves data permanently? (correct answers: 1)",
+    "correct": ["q23o2"],
     "options": [
-      { "id": "q23o1", "text": "Ablai Khan skillfully balanced relations between Russia and the Qing Empire, creating a system of \"double subjection.\"" },
-      { "id": "q23o2", "text": "The Kazakhs sultans used their position in Russo-Qing trade to weaken khan's autonomy and advance full colonization." },
-      { "id": "q23o3", "text": "The Qing viewed Kazakh subjecthood as personal and tributary, while Russia saw it as territorial and permanent." },
-      { "id": "q23o4", "text": "Ablai Khan rejected all foreign alliances, maintaining strict isolation from both Russia and China." }
+      {"id": "q23o1", "text": "RAM"},
+      {"id": "q23o2", "text": "Hard drive"},
+      {"id": "q23o3", "text": "CPU"},
+      {"id": "q23o4", "text": "Monitor"}
     ]
   },
   {
     "id": 24,
-    "question": "Which statements best describe the geopolitical and economic situation of Kazakhstan and Central Asia at the end of the 18th century? (2 correct answers)",
-    "correct": ["q24o3", "q24o4"],
+    "question": "What is 'Ctrl + C' used for? (correct answers: 1)",
+    "correct": ["q24o1"],
     "options": [
-      { "id": "q24o1", "text": "The Kazakhs were entirely isolated from their southern neighbors and avoided any economic exchange with them." },
-      { "id": "q24o2", "text": "The struggle for control of Tashkent reflected growing rivalry between the Russians and the rising Khanate of Kokand." },
-      { "id": "q24o3", "text": "The city-states of Bukhara, Khiva, and Kokand maintained complex relations of trade, conflict, and dependence with nomadic peoples." },
-      { "id": "q24o4", "text": "The fall of the Jungar Khanate brought the Russian and Qing empires into direct competition for influence over the Kazakh steppe." }
+      {"id": "q24o1", "text": "Copy selected text"},
+      {"id": "q24o2", "text": "Paste text"},
+      {"id": "q24o3", "text": "Cut text"},
+      {"id": "q24o4", "text": "Save file"}
     ]
   },
   {
     "id": 25,
-    "question": "Which statements correctly summarize the foreign policy of the Kazakh khans in the first half of the 18th century? (2 correct answers)",
-    "correct": ["q25o3", "q25o2"],
+    "question": "What does 'PDF' stand for? (correct answers: 1)",
+    "correct": ["q25o2"],
     "options": [
-      { "id": "q25o1", "text": "The Kazakh–Dzungar conflict ended due to the Russian Empire's destruction of the Dzungar Khanate in 1755." },
-      { "id": "q25o2", "text": "The Jungar threat pushed Abulkhair Khan of the Little Juz to seek alliance and protection from Russia." },
-      { "id": "q25o3", "text": "After Tauke Khan's death, the three Juzes acted independently, shaping a multi-directional foreign policy." },
-      { "id": "q25o4", "text": "The Kazakh khans completely avoided alliances with external powers to preserve full political independence." }
+      {"id": "q25o1", "text": "Portable Document Format"},
+      {"id": "q25o2", "text": "Public Document File"},
+      {"id": "q25o3", "text": "Personal Data File"},
+      {"id": "q25o4", "text": "Printable Document Format"}
     ]
   },
   {
     "id": 26,
-    "question": "Which statements correctly explain the social, cultural, and legal consequences of Russian imperial policy in Kazakhstan? (2 correct answers)",
-    "correct": ["q26o2", "q26o4"],
+    "question": "What connects computers together? (correct answers: 1)",
+    "correct": ["q26o2"],
     "options": [
-      { "id": "q26o1", "text": "Kazakh intermediaries like Chokan Valikhanov further facilitated cultural divides, while also exploiting their roles for personal advantage" },
-      { "id": "q26o2", "text": "Russian officials tried to replace Kazakh customary law (adat) with written imperial codes, but biys' courts continued to function in parallel." },
-      { "id": "q26o3", "text": "The reforms created a stable and corruption-free colonial administration where Kazakh elites were fully integrated as equal partners." },
-      { "id": "q26o4", "text": "The \"civilizing mission\" sought to assimilate Kazakhs through language, religion, and education, provoking both cooperation and resistance." }
+      {"id": "q26o1", "text": "Printer"},
+      {"id": "q26o2", "text": "Network"},
+      {"id": "q26o3", "text": "Keyboard"},
+      {"id": "q26o4", "text": "Screen"}
     ]
   },
   {
     "id": 27,
-    "question": "What were the main outcomes and significance of the uprising? (correct answers: 2)",
-    "correct": ["q27o1", "q27o4"],
+    "question": "What is the 'desktop'? (correct answers: 1)",
+    "correct": ["q27o1"],
     "options": [
-      { "id": "q27o1", "text": "The movement was weakened by poor organization and local character, leading to its defeat." },
-      { "id": "q27o2", "text": "The uprising ended with complete independence of the Horde from the Russian Empire." },
-      { "id": "q27o3", "text": "Isatai Taimanov became khan of the Bukey Horde and reformed land ownership." },
-      { "id": "q27o4", "text": "The rebellion revealed widespread anger toward both feudal oppression and Russian colonial control." }
+      {"id": "q27o1", "text": "The main screen after login"},
+      {"id": "q27o2", "text": "A physical desk"},
+      {"id": "q27o3", "text": "A type of file"},
+      {"id": "q27o4", "text": "A web browser"}
     ]
   },
   {
     "id": 28,
-    "question": "What were the main causes of the Kenesary Kasymov uprising (1837–1847)? (correct answers: 2)",
-    "correct": ["q28o1", "q28o4"],
+    "question": "Which is not hardware? (correct answers: 1)",
+    "correct": ["q28o3"],
     "options": [
-      { "id": "q28o1", "text": "The weakening of Chinggisid authority caused by Russian administrative reforms such as the 1822 Statute." },
-      { "id": "q28o2", "text": "The invitation of Kenesary by the Russian government to rule as a loyal governor." },
-      { "id": "q28o3", "text": "The desire to create a unified alliance with the Kyrgyz and Russian empires." },
-      { "id": "q28o4", "text": "The loss of Kazakh lands and restrictions on traditional nomadic routes due to Russian expansion." }
+      {"id": "q28o1", "text": "Mouse"},
+      {"id": "q28o2", "text": "RAM"},
+      {"id": "q28o3", "text": "Excel"},
+      {"id": "q28o4", "text": "Power supply"}
     ]
   },
   {
     "id": 29,
-    "question": "Why did the uprising in the Bukey Horde (1836–1838) begin? (correct answers: 2)",
-    "correct": ["q29o1", "q29o3"],
+    "question": "What does 'MB' stand for? (correct answers: 1)",
+    "correct": ["q29o1"],
     "options": [
-      { "id": "q29o1", "text": "Because most of the fertile land was controlled by Khan Dzhangir and a few nobles, leaving common herders landless." },
-      { "id": "q29o2", "text": "Because Makhambet Utemisov was appointed by the Russian Empire to collect new taxes." },
-      { "id": "q29o3", "text": "Because Russian settlements surrounded the Horde and restricted access to grazing lands." },
-      { "id": "q29o4", "text": "Because Isatai Taimanov wanted to unite with Russian Cossacks against the Khiva Khanate." }
+      {"id": "q29o1", "text": "Megabyte"},
+      {"id": "q29o2", "text": "Megabit"},
+      {"id": "q29o3", "text": "Memory byte"},
+      {"id": "q29o4", "text": "Mega block"}
     ]
   },
   {
     "id": 30,
-    "question": "What were the main causes of Kenesary Kasymov's uprising? (correct answers: 2)",
-    "correct": ["q30o1", "q30o3"],
+    "question": "What is a password for? (correct answers: 1)",
+    "correct": ["q30o3"],
     "options": [
-      { "id": "q30o1", "text": "The weakening of Chinggisid power after the 1822 \"Statute on the Siberian Kirgiz.\"" },
-      { "id": "q30o2", "text": "The desire to create alliances with the Russian and Kyrgyz leaders for joint reforms." },
-      { "id": "q30o3", "text": "The loss of land and disruption of the nomadic economy due to Russian forts and colonization." },
-      { "id": "q30o4", "text": "The introduction of Russian taxation and trade privileges for the Kazakh elite." }
+      {"id": "q30o1", "text": "To send emails"},
+      {"id": "q30o2", "text": "To browse websites"},
+      {"id": "q30o3", "text": "To protect accounts"},
+      {"id": "q30o4", "text": "To print files"}
     ]
   },
   {
     "id": 31,
-    "question": "Why did Dzhankhodzhi Nurmukhamedov and Eset Kotibarov lead uprisings in the 1850s? (2 correct)",
-    "correct": ["q31o1", "q31o3"],
+    "question": "What does 'Ctrl + V' do? (correct answers: 1)",
+    "correct": ["q31o2"],
     "options": [
-      { "id": "q31o1", "text": "Because Khiva and Kokand raided Kazakh lands and forced local people to pay tribute." },
-      { "id": "q31o2", "text": "Because the Russian Empire invited the Kazakhs to form a joint military alliance." },
-      { "id": "q31o3", "text": "Because Russian forts and settlements seized Kazakh pasturelands along the Syr Darya River." },
-      { "id": "q31o4", "text": "Because Dzhankhodzhi wanted to expand Kazakh control into Siberia." }
+      {"id": "q31o1", "text": "Copy"},
+      {"id": "q31o2", "text": "Paste"},
+      {"id": "q31o3", "text": "Undo"},
+      {"id": "q31o4", "text": "Save"}
     ]
   },
   {
     "id": 32,
-    "question": "Why did Syrym Datov lead the rebellion in the Junior Jüz from 1783 to 1797? (correct answers: 2)",
-    "correct": ["q32o2", "q32o4"],
+    "question": "What is the internet? (correct answers: 1)",
+    "correct": ["q32o3"],
     "options": [
-      { "id": "q32o1", "text": "Because the Russian Empire promised independence to the Junior Jüz if Datov cooperated." },
-      { "id": "q32o2", "text": "Because Russian land seizures and Cossack raids destroyed Kazakh pastures and livelihoods." },
-      { "id": "q32o3", "text": "Because Datov wanted to conquer the Middle Jüz and expand his personal power." },
-      { "id": "q32o4", "text": "Because Khan Nuraly and the sultans collaborated with Russian authorities and exploited their people." }
+      {"id": "q32o1", "text": "A single website"},
+      {"id": "q32o2", "text": "A computer program"},
+      {"id": "q32o3", "text": "A global network"},
+      {"id": "q32o4", "text": "A type of hardware"}
     ]
   },
   {
     "id": 33,
-    "question": "What were the main results and significance of Syrym Datov's movement? (correct answers: 2)",
-    "correct": ["q33o1", "q33o2"],
+    "question": "Which button shuts down the computer? (correct answers: 1)",
+    "correct": ["q33o1"],
     "options": [
-      { "id": "q33o1", "text": "The rebellion weakened khanic authority and brought closer its eventual abolition in the Junior Jüz." },
-      { "id": "q33o2", "text": "The movement forced Khan Nuraly to flee and led to the temporary establishment of a council of clan elders." },
-      { "id": "q33o3", "text": "The rebellion ended with Datov's victory over the Russian army and full restoration of Kazakh autonomy." },
-      { "id": "q33o4", "text": "The uprising united all Kazakh tribes under Datov's permanent leadership and achieved independence." }
+      {"id": "q33o1", "text": "Start menu power button"},
+      {"id": "q33o2", "text": "F12"},
+      {"id": "q33o3", "text": "Ctrl + P"},
+      {"id": "q33o4", "text": "Alt + F4 only"}
     ]
   },
   {
     "id": 34,
-    "question": "What were the main causes of the 1916 National-Liberation Uprising in Kazakhstan? (2 correct answers)",
-    "correct": ["q34o3", "q34o4"],
+    "question": "What is 'cloud storage'? (correct answers: 1)",
+    "correct": ["q34o2"],
     "options": [
-      { "id": "q34o1", "text": "Because Kazakh leaders wanted to join the Russian army voluntarily to gain citizenship rights." },
-      { "id": "q34o2", "text": "Because Central Asian merchants demanded higher prices for grain and livestock during the war." },
-      { "id": "q34o3", "text": "Because years of land seizures, taxation, and corruption under Russian rule created deep resentment." },
-      { "id": "q34o4", "text": "Because the conscription decree of 1916 violated earlier promises and caused fear of forced labor and conversion." }
+      {"id": "q34o1", "text": "Storage in the sky"},
+      {"id": "q34o2", "text": "Online file storage"},
+      {"id": "q34o3", "text": "A weather app"},
+      {"id": "q34o4", "text": "Local hard drive"}
     ]
   },
   {
     "id": 35,
-    "question": "What were the main characteristics of traditional Kazakh mekteps in the early 20th century? (2 correct answers)",
-    "correct": ["q1o1", "q1o4"],
+    "question": "What does 'https' mean? (correct answers: 1)",
+    "correct": ["q35o3"],
     "options": [
-      { "id": "q1o1", "text": "They used the Arabic alphabet and followed Islamic traditions." },
-      { "id": "q1o2", "text": "They focused mainly on teaching Russian history and literature." },
-      { "id": "q1o3", "text": "They received strong financial support from the Russian government." },
-      { "id": "q1o4", "text": "They were often expensive and taught by poorly trained teachers." }
+      {"id": "q35o1", "text": "Hyper text protocol"},
+      {"id": "q35o2", "text": "Safe web connection"},
+      {"id": "q35o3", "text": "Secure web connection"},
+      {"id": "q35o4", "text": "High speed transfer"}
     ]
   },
   {
     "id": 36,
-    "question": "What was Magzhan Zhumabaev’s poetic solution to the nomadic/sedentary dilemma? (2 correct answers)",
-    "correct": ["q2o1", "q2o3"],
+    "question": "What is a spreadsheet? (correct answers: 1)",
+    "correct": ["q36o1"],
     "options": [
-      { "id": "q2o1", "text": "He reimagined the poet as a “Great Nomad,” symbolizing freedom and movement." },
-      { "id": "q2o2", "text": "He proposed returning entirely to the old nomadic lifestyle without change." },
-      { "id": "q2o3", "text": "He gave nomadic life a new, eternal form through poetry and imagination." },
-      { "id": "q2o4", "text": "He encouraged people to abandon poetry and focus on modern cities." }
+      {"id": "q36o1", "text": "A program for calculations"},
+      {"id": "q36o2", "text": "A word processor"},
+      {"id": "q36o3", "text": "A photo editor"},
+      {"id": "q36o4", "text": "A music player"}
     ]
   },
   {
     "id": 37,
-    "question": "What were the main goals and early achievements of the Alash movement? (2 correct answers)",
-    "correct": ["q3o2", "q3o4"],
+    "question": "Which is the largest storage unit? (correct answers: 1)",
+    "correct": ["q37o3"],
     "options": [
-      { "id": "q3o1", "text": "To encourage Kazakhs to abandon their national identity in favor of Western culture." },
-      { "id": "q3o2", "text": "To create a political organization that represented Kazakh interests in the Russian Empire." },
-      { "id": "q3o3", "text": "To support the Tsar’s policy of forced Russification across the Steppe region." },
-      { "id": "q3o4", "text": "To promote national education and publish newspapers like Qazaq to unite the Kazakh intelligentsia." }
+      {"id": "q37o1", "text": "KB"},
+      {"id": "q37o2", "text": "MB"},
+      {"id": "q37o3", "text": "TB"},
+      {"id": "q37o4", "text": "GB"}
     ]
   },
   {
     "id": 38,
-    "question": "Why was the early 20th century called the birth of modern Kazakh literature? (2 correct answers)",
-    "correct": ["q4o1", "q4o4"],
+    "question": "What does 'copy-paste' do? (correct answers: 1)",
+    "correct": ["q38o4"],
     "options": [
-      { "id": "q4o1", "text": "Because writers began creating written works that replaced the oral tradition." },
-      { "id": "q4o2", "text": "Because literature focused only on ancient legends and heroic songs." },
-      { "id": "q4o3", "text": "Because the Alash leaders helped publish and preserve important Kazakh works." },
-      { "id": "q4o4", "text": "Because authors like Myrzhaqyp Dulatov and Abai Qunanbaev addressed real social issues." }
+      {"id": "q38o1", "text": "Delete text"},
+      {"id": "q38o2", "text": "Move text"},
+      {"id": "q38o3", "text": "Edit text"},
+      {"id": "q38o4", "text": "Duplicate text"}
     ]
   },
   {
     "id": 39,
-    "question": "According to Benedict Anderson, what made people imagine themselves as part of a nation? (2 correct answers)",
-    "correct": ["q5o1", "q5o2"],
+    "question": "What is antivirus software for? (correct answers: 1)",
+    "correct": ["q39o2"],
     "options": [
-      { "id": "q5o1", "text": "Because capitalism and print culture helped connect individuals through shared information." },
-      { "id": "q5o2", "text": "Because the spread of print media created a shared space for ideas and identity." },
-      { "id": "q5o3", "text": "Because people began to meet personally across all regions to form real communities." },
-      { "id": "q5o4", "text": "Because traditional monarchies forced citizens to unite under one national religion." }
+      {"id": "q39o1", "text": "To speed up computer"},
+      {"id": "q39o2", "text": "To protect from viruses"},
+      {"id": "q39o3", "text": "To browse web"},
+      {"id": "q39o4", "text": "To edit photos"}
     ]
   },
   {
     "id": 40,
-    "question": "What were Akhmet Baitursynov’s main contributions to the Kazakh language reform? (2 correct answers)",
-    "correct": ["q6o3", "q6o4"],
+    "question": "What is 'drag and drop'? (correct answers: 1)",
+    "correct": ["q40o1"],
     "options": [
-      { "id": "q6o1", "text": "He encouraged students to abandon written Kazakh for oral traditions." },
-      { "id": "q6o2", "text": "He replaced Arabic with the Latin alphabet in all Kazakh schools." },
-      { "id": "q6o3", "text": "He created a new grammar and a textbook to teach the reformed alphabet." },
-      { "id": "q6o4", "text": "He modernized the Arabic alphabet to fit Kazakh vowel sounds." }
+      {"id": "q40o1", "text": "Moving items with mouse"},
+      {"id": "q40o2", "text": "Typing quickly"},
+      {"id": "q40o3", "text": "Printing files"},
+      {"id": "q40o4", "text": "Saving data"}
     ]
   },
   {
     "id": 41,
-    "question": "According to Partha Chatterjee, how did anticolonial nationalism define its own domain of sovereignty? (2 correct answers)",
-    "correct": ["q7o1", "q7o2"],
+    "question": "Which is an operating system? (correct answers: 1)",
+    "correct": ["q41o2"],
     "options": [
-      { "id": "q7o1", "text": "By dividing society into the material and the spiritual domains." },
-      { "id": "q7o2", "text": "By studying Western achievements while preserving native cultural identity." },
-      { "id": "q7o3", "text": "By rejecting all forms of Western knowledge and technology completely." },
-      { "id": "q7o4", "text": "By allowing the colonial state to control all areas of national life." }
+      {"id": "q41o1", "text": "Google Chrome"},
+      {"id": "q41o2", "text": "Windows 10"},
+      {"id": "q41o3", "text": "Microsoft Word"},
+      {"id": "q41o4", "text": "Adobe Photoshop"}
     ]
   },
   {
     "id": 42,
-    "question": "What were the main ideas of the Aiqap newspaper in the 1910s? (2 correct answers)",
-    "correct": ["q8o2", "q8o3"],
+    "question": "What does 'backup' mean? (correct answers: 1)",
+    "correct": ["q42o3"],
     "options": [
-      { "id": "q8o1", "text": "That nomadic traditions were more important than modern education or reform." },
-      { "id": "q8o2", "text": "That a settled lifestyle would help protect both Kazakh faith and culture." },
-      { "id": "q8o3", "text": "That Islam was central to Kazakh identity and should guide national development." },
-      { "id": "q8o4", "text": "That religion should be separated completely from politics and governance." }
+      {"id": "q42o1", "text": "Delete files"},
+      {"id": "q42o2", "text": "Share files"},
+      {"id": "q42o3", "text": "Save copies of files"},
+      {"id": "q42o4", "text": "Open files"}
     ]
   },
   {
     "id": 43,
-    "question": "What was the main purpose of the New Economic Policy (NEP) introduced in 1921? (2 correct answers)",
-    "correct": ["q1o2", "q1o4"],
+    "question": "What is a 'link'? (correct answers: 1)",
+    "correct": ["q43o2"],
     "options": [
-      { "id": "q1o1", "text": "To allow private ownership and reduce the role of the state in agriculture." },
-      { "id": "q1o2", "text": "To provide temporary economic recovery for a war-torn population." },
-      { "id": "q1o3", "text": "To completely abolish the use of money and reintroduce barter trade." },
-      { "id": "q1o4", "text": "To restore market trade and individual farming after the hardships of War Communism." }
+      {"id": "q43o1", "text": "A picture"},
+      {"id": "q43o2", "text": "Clickable text to another page"},
+      {"id": "q43o3", "text": "A file"},
+      {"id": "q43o4", "text": "A folder"}
     ]
   },
   {
     "id": 44,
-    "question": "How did the Soviet grain procurement policies affect the Kazakh population? (2 correct answers)",
-    "correct": ["q2o1", "q2o3"],
+    "question": "What does 'KB' stand for? (correct answers: 1)",
+    "correct": ["q44o2"],
     "options": [
-      { "id": "q2o1", "text": "They caused severe shortages and widespread suffering in rural areas." },
-      { "id": "q2o2", "text": "They encouraged voluntary cooperation between peasants and the state." },
-      { "id": "q2o3", "text": "They led to violent confiscations of grain and punishments for resistance." },
-      { "id": "q2o4", "text": "They reduced food prices and improved living standards for Kazakh farmers." }
+      {"id": "q44o1", "text": "Kilobyte"},
+      {"id": "q44o2", "text": "KiloByte"},
+      {"id": "q44o3", "text": "Key Byte"},
+      {"id": "q44o4", "text": "Kilo Bit"}
     ]
   },
   {
     "id": 45,
-    "question": "What was the goal of the Soviet policy of national-territorial delimitation? (2 correct answers)",
-    "correct": ["q3o1", "q3o3"],
+    "question": "What is the taskbar? (correct answers: 1)",
+    "correct": ["q45o1"],
     "options": [
-      { "id": "q3o1", "text": "To define national borders and create new autonomous republics based on ethnicity." },
-      { "id": "q3o2", "text": "To abolish national borders and remove ethnic distinctions entirely." },
-      { "id": "q3o3", "text": "To use ethnographic research to turn cultural identities into political realities." },
-      { "id": "q3o4", "text": "To merge all Central Asian lands into one large Turkestan Republic." }
+      {"id": "q45o1", "text": "Bottom bar with open apps"},
+      {"id": "q45o2", "text": "Top menu"},
+      {"id": "q45o3", "text": "Side panel"},
+      {"id": "q45o4", "text": "Desktop wallpaper"}
     ]
   },
   {
     "id": 46,
-    "question": "What changes did Filipp Goloshchekin bring to Kazakhstan after 1925? (2 correct answers)",
-    "correct": ["q4o2", "q4o3"],
+    "question": "Which sends messages online? (correct answers: 1)",
+    "correct": ["q46o1"],
     "options": [
-      { "id": "q4o1", "text": "He purged dissenters and centralized political control under the Communist Party." },
-      { "id": "q4o2", "text": "He began an aggressive campaign against wealthy Kazakh herders, the bais." },
-      { "id": "q4o3", "text": "He launched the \"Small October\" campaign to force Kazakh society into socialism." },
-      { "id": "q4o4", "text": "He supported gradual reforms proposed by Kazakh communists like Sadvokasov." }
+      {"id": "q46o1", "text": "Email"},
+      {"id": "q46o2", "text": "Printer"},
+      {"id": "q46o3", "text": "Keyboard"},
+      {"id": "q46o4", "text": "Mouse"}
     ]
   },
   {
     "id": 47,
-    "question": "What were the main effects of forced collectivization and sedentarization in Kazakhstan? (2 correct answers)",
-    "correct": ["q5o2", "q5o3"],
+    "question": "What does 'undo' do? (correct answers: 1)",
+    "correct": ["q47o3"],
     "options": [
-      { "id": "q5o1", "text": "The peaceful and voluntary transition to settled agriculture." },
-      { "id": "q5o2", "text": "The forced creation of collective farms through violence and coercion." },
-      { "id": "q5o3", "text": "The mass slaughter of livestock, destroying the Kazakh pastoral economy." },
-      { "id": "q5o4", "text": "The increase in food security and agricultural productivity." }
+      {"id": "q47o1", "text": "Redo action"},
+      {"id": "q47o2", "text": "Save file"},
+      {"id": "q47o3", "text": "Reverse last action"},
+      {"id": "q47o4", "text": "Copy text"}
     ]
   },
   {
     "id": 48,
-    "question": "What challenges did the Kazakh steppe face after the fall of the Tsarist Empire? (2 correct answers)",
-    "correct": ["q6o1", "q6o2"],
+    "question": "What is a 'search engine'? (correct answers: 1)",
+    "correct": ["q48o2"],
     "options": [
-      { "id": "q6o1", "text": "The continuation of land seizures by settlers, deepening Kazakh resentment." },
-      { "id": "q6o2", "text": "A power vacuum where multiple groups, including the Alash Orda, fought for control." },
-      { "id": "q6o3", "text": "A peaceful transition to self-governance under the Provisional Government." },
-      { "id": "q6o4", "text": "The rapid and stable formation of a centralized Kazakh republic." }
+      {"id": "q48o1", "text": "A file finder"},
+      {"id": "q48o2", "text": "Tool to find websites"},
+      {"id": "q48o3", "text": "A hardware device"},
+      {"id": "q48o4", "text": "An email client"}
     ]
   },
   {
     "id": 49,
-    "question": "What was the significance of the Land-Water Reform of 1921–22? (2 correct answers)",
-    "correct": ["q7o1", "q7o3"],
+    "question": "What is 'right-click'? (correct answers: 1)",
+    "correct": ["q49o4"],
     "options": [
-      { "id": "q7o1", "text": "It returned land and resources taken by Russian settlers to Kazakh communities." },
-      { "id": "q7o2", "text": "It sought to strengthen the power of wealthy herders, or bais, in rural areas." },
-      { "id": "q7o3", "text": "It was an early example of Soviet affirmative action favoring indigenous peoples." },
-      { "id": "q7o4", "text": "It aimed to protect Russian settlers from Kazakh nomads and tribal leaders." }
+      {"id": "q49o1", "text": "Left mouse button"},
+      {"id": "q49o2", "text": "Double-click"},
+      {"id": "q49o3", "text": "Scroll wheel"},
+      {"id": "q49o4", "text": "Shows menu options"}
     ]
   },
   {
     "id": 50,
-    "question": "What were the main features of the policy of korenizatsiia (indigenization)? (2 correct answers)",
-    "correct": ["q8o1", "q8o3"],
+    "question": "What protects your files? (correct answers: 1)",
+    "correct": ["q50o1"],
     "options": [
-      { "id": "q8o1", "text": "Expanding Kazakh-language education and local publications." },
-      { "id": "q8o2", "text": "Eliminating all forms of ethnic and linguistic identity in the USSR." },
-      { "id": "q8o3", "text": "Promoting Kazakhs into administrative and political leadership roles." },
-      { "id": "q8o4", "text": "Encouraging Russian officials to maintain their old colonial privileges." }
-    ]
-  },
-  {
-    "id": 51,
-    "question": "Which argument is correct based on the text? STEVEN SABOL - Alikhan Bokeikhanov, a pivotal figure in the development of Kazakh national identity 1) Main idea: “a scientist and a politician” Sabol argues that Soviet historiography reduced Alikhan Bokeikhanov to the leader of the “bourgeois-nationalist” Alash Orda and largely ignored his scientific, historical, and ethnographic work. The chapter insists that focusing only on his political career produces a shallow portrait and misses how his scholarship and activism together shaped Kazakh nationalist thought.",
-    "correct": ["q51o2"],
-    "options": [
-      { "id": "q51o1", "text": "A) Soviet historians highlighted his ethnography as his main legacy." },
-      { "id": "q51o2", "text": "B) A full understanding requires linking his science and politics." },
-      { "id": "q51o3", "text": "C) He avoided politics and worked only as a scientist." },
-      { "id": "q51o4", "text": "D) His influence was limited to forestry education." }
-    ]
-  },
-  {
-    "id": 52,
-    "question": "2) Intersection of science and activism: evidence-based critique The text emphasizes that Bokeikhanov’s arguments against Russian resettlement were not only emotional nationalist appeals. He drew on long-term fieldwork, statistics, and expedition data (Shcherbina and Shvetsov missions) to demonstrate economic risks in the steppe, including soil and rainfall constraints and harmful land policies affecting Kazakh livelihoods.",
-    "correct": ["q52o2"],
-    "options": [
-      { "id": "q52o1", "text": "A) He relied mainly on folklore and poetry to oppose resettlement." },
-      { "id": "q52o2", "text": "B) His critiques were supported by scientific observation and statistics." },
-      { "id": "q52o3", "text": "C) He rejected data-gathering because it served the empire." },
-      { "id": "q52o4", "text": "D) He defended resettlement as beneficial for Kazakhs." }
-    ]
-  },
-  {
-    "id": 53,
-    "question": "3) Strategic alliances vs. cultural identity: Kadets as tactics In 1905, Bokeikhanov and other Kazakh intellectuals affiliated with the Constitutional Democrats (Kadets). The text states this was largely tactical: without alliances, their new political union lacked resources and influence to push Kazakh demands into legal political programs. It was not simply evidence of shared ideology or cultural assimilation.",
-    "correct": ["q53o2"],
-    "options": [
-      { "id": "q53o1", "text": "A) The alliance proved Kazakhs wanted to abandon national demands." },
-      { "id": "q53o2", "text": "B) The alliance was tactical to access politics and promote Kazakh aims." },
-      { "id": "q53o3", "text": "C) The alliance happened because Kazakhs fully shared Kadet ideology." },
-      { "id": "q53o4", "text": "D) The alliance replaced Kazakh demands with Russian-only priorities." }
-    ]
-  },
-  {
-    "id": 54,
-    "question": "4) “Zapadniki” vs. “Pan-Islamists”: core division In his 1910 work “Kirgizy,” Bokeikhanov describes a split within the Kazakh intelligentsia: secular Westernizers (“zapadniki”) versus those oriented to the Muslim world (Panturkists–Panislamists). He argued Russification pushed Kazakhs toward Islam and predicted two parties might emerge. Yet he promoted secular education and cultural publishing to strengthen unity.",
-    "correct": ["q54o3"],
-    "options": [
-      { "id": "q54o1", "text": "A) He claimed the masses, not intellectuals, caused the split." },
-      { "id": "q54o2", "text": "B) He denied any division inside Kazakh society." },
-      { "id": "q54o3", "text": "C) He linked Russification to a growing split and urged secular education." },
-      { "id": "q54o4", "text": "D) He argued Pan-Islamists were a tiny minority with no influence." }
-    ]
-  },
-  {
-    "id": 55,
-    "question": "5) Political repression and limits of participation (1906–1907) The text shows that Bokeikhanov repeatedly faced arrests without trial and lost chances for parliamentary work. Even elected to the First Duma, he arrived as the Tsar dissolved it (July 9, 1906). Later, the June 3, 1907 law barred Kazakhs and other minorities from future Duma participation, shrinking legal political avenues.",
-    "correct": ["q55o3"],
-    "options": [
-      { "id": "q55o1", "text": "A) He served many years in the First Duma as an active deputy." },
-      { "id": "q55o2", "text": "B) Political participation expanded steadily for Kazakhs after 1906." },
-      { "id": "q55o3", "text": "C) Arrests and the 1907 law sharply restricted Kazakh representation." },
-      { "id": "q55o4", "text": "D) He was arrested only once and then worked freely in politics." }
-    ]
-  },
-  {
-    "id": 56,
-    "question": "6) Petition politics (Karkaraly petition, 1905): key demands A 1905 petition from Karkaralinsk uezd (over 14,500 signatures) demanded reforms: more local schools (Kazakh and Russian) to fight illiteracy, more control of spiritual affairs and abolition of censorship of religious books, permission for a Kazakh-language newspaper, Kazakh representation in the Duma, Kazakh use in court, and recognition of Kazakh lands as property.",
-    "correct": ["q56o3"],
-    "options": [
-      { "id": "q56o1", "text": "A) The petition demanded banning Kazakh-language education." },
-      { "id": "q56o2", "text": "B) The petition focused only on military service and taxes." },
-      { "id": "q56o3", "text": "C) The petition combined education, land rights, language, and representation." },
-      { "id": "q56o4", "text": "D) The petition rejected any religious freedom demands." }
-    ]
-  },
-  {
-    "id": 57,
-    "question": "7) Land statistics as political argument (desiatin evidence) Bokeikhanov used expedition estimates to argue that livestock breeding required 90–192 desiatin, while the average Kazakh nomadic household held only 6.3 desiatin, often on winter sites. This forced early family break-ups to search for pastures and increased vulnerability. His point was that “majority population” did not mean economic well-being under colonization.",
-    "correct": ["q57o2"],
-    "options": [
-      { "id": "q57o1", "text": "A) He argued Kazakhs had more land than they needed." },
-      { "id": "q57o2", "text": "B) He used land statistics to show Kazakh allocations were insufficient." },
-      { "id": "q57o3", "text": "C) He claimed agriculture already produced most Kazakh income." },
-      { "id": "q57o4", "text": "D) He stated settlers reduced Russian farming success, not Kazakh livelihoods." }
-    ]
-  },
-  {
-    "id": 58,
-    "question": "8) Administration, language, and “translator power” The text argues that Russian administrative changes harmed traditional judicial practices: judges were selected by Russians, Kazakh rights were ignored in mixed disputes, and officials often did not know Kazakh language. Transactions required translators, and “clever translators” could seize power in the uezd. This deepened resentment and reinforced negative stereotypes.",
-    "correct": ["q58o3"],
-    "options": [
-      { "id": "q58o1", "text": "A) Russian officials generally mastered Kazakh and reduced conflicts." },
-      { "id": "q58o2", "text": "B) Translators had no influence and were rarely needed." },
-      { "id": "q58o3", "text": "C) Language barriers and imposed courts intensified injustice and tension." },
-      { "id": "q58o4", "text": "D) Kazakhs refused translators because they preferred Russian courts." }
-    ]
-  },
-  {
-    "id": 59,
-    "question": "9) Cultural nation-building through the press (Kazak newspaper, 1913) Bokeikhanov helped establish the newspaper Kazak in 1913 with Baitursynov and Dulatov. The text notes it became the most successful independent Kazakh-language periodical and carried most of his works (200+ pieces). A key editorial aim was to invent a single nation with a common past, united by language and traditions.",
-    "correct": ["q59o2"],
-    "options": [
-      { "id": "q59o1", "text": "A) The newspaper avoided politics and focused only on science." },
-      { "id": "q59o2", "text": "B) Its goal was to unite Kazakhs by shared language, traditions, and past." },
-      { "id": "q59o3", "text": "C) It was controlled by tsarist officials to promote Russification." },
-      { "id": "q59o4", "text": "D) He published only a few texts in it due to censorship." }
-    ]
-  },
-  {
-    "id": 60,
-    "question": "10) “1905 freedom” and fragile unity Bokeikhanov observed that 1905 created moments of public meetings, language publishing, and cultural opportunity, which encouraged hopes of unity. Yet he believed unity was fragile: tribal ties and ideological splits could re-emerge, especially after later revolutions. He argued that only a political offensive transcending tribal divisions could unite Kazakhs under common interests and goals.",
-    "correct": ["q60o2"],
-    "options": [
-      { "id": "q60o1", "text": "A) He believed tribal ties were irrelevant and unity guaranteed." },
-      { "id": "q60o2", "text": "B) He argued unity required overcoming tribal divisions through political action." },
-      { "id": "q60o3", "text": "C) He said the key issue was only literature, not politics." },
-      { "id": "q60o4", "text": "D) He claimed Kazakhs had full electoral rights after 1907." }
-    ]
-  },
-  {
-    "id": 61,
-    "question": "11) The Ethics of Pragmatism in 1916 (supporting mobilization) At the start of World War I, Bokeikhanov questioned the war and even praised German Socialists’ anti-war position. Yet during the 1916 revolt he and other Kazakh leaders supported the mobilization order and negotiated terms. The text frames this as pragmatic bargaining to extract concessions from a desperate state, not loyal support for tsarism.",
-    "correct": ["q61o2"],
-    "options": [
-      { "id": "q61o1", "text": "A) He supported mobilization because he fully trusted the tsarist regime." },
-      { "id": "q61o2", "text": "B) He supported mobilization to bargain for concessions and better terms." },
-      { "id": "q61o3", "text": "C) He supported mobilization because he rejected any negotiations." },
-      { "id": "q61o4", "text": "D) He supported mobilization to prevent Kazakhs from gaining rights." }
-    ]
-  },
-  {
-    "id": 62,
-    "question": "12) Why 1916 protests turned violent By 1916, economic pressure intensified: livestock and commodities were often seized without pay (over 260,000 head in 1914–1915), taxes rose 3–5%, and Kazakhs were expected to work for free on settlers’ farms. When conscription of Central Asians was announced in June 1916, anger exploded into violent revolt across Turkestan and the steppe.",
-    "correct": ["q62o2"],
-    "options": [
-      { "id": "q62o1", "text": "A) Violence began because immigration sharply increased in 1916." },
-      { "id": "q62o2", "text": "B) Violence was mainly caused by economic seizures, taxes, and conscription." },
-      { "id": "q62o3", "text": "C) Violence started because Kazakhs were given generous land grants." },
-      { "id": "q62o4", "text": "D) Violence started because the war improved Kazakh living standards." }
-    ]
-  },
-  {
-    "id": 63,
-    "question": "13) Cavalry units vs. rear labor: the broken expectation In early 1916, Bokeikhanov and Baitursynov went to Petrograd hoping Kazakhs would serve in cavalry units and receive land for service like Cossacks. They believed the issue was postponed after meeting the War Minister. Instead, the June order drafted Kazakhs into rear labor units. This mismatch helped trigger outrage and revolt.",
-    "correct": ["q63o2"],
-    "options": [
-      { "id": "q63o1", "text": "A) The government agreed to cavalry service with land, reducing tensions." },
-      { "id": "q63o2", "text": "B) Kazakhs were drafted into rear labor, contradicting negotiated hopes." },
-      { "id": "q63o3", "text": "C) Kazakhs were exempted from any war contribution after June 1916." },
-      { "id": "q63o4", "text": "D) The leaders demanded only higher taxes, not changes in service type." }
-    ]
-  },
-  {
-    "id": 64,
-    "question": "14) Moral judgment of violence: challenging a biased interpretation A Western scholar (Edward Sokol) described the 1916 revolt as a “return” to ancestral violence and raiding. The text criticizes this as unfair because it ignores Russian violence too, including atrocities such as a Russian individual capturing and murdering Kazakhs and seizing thousands of animals. The passage stresses violence was committed by both sides.",
-    "correct": ["q64o3"],
-    "options": [
-      { "id": "q64o1", "text": "A) The text supports Sokol’s view as the best explanation of 1916." },
-      { "id": "q64o2", "text": "B) The text argues violence was one-sided and only Kazakhs committed atrocities." },
-      { "id": "q64o3", "text": "C) The text challenges Sokol and highlights Russian violence and atrocities." },
-      { "id": "q64o4", "text": "D) The text claims there was no violence, only peaceful protests." }
-    ]
-  },
-  {
-    "id": 65,
-    "question": "15) “Social revolutionary,” not political revolutionary Soviet scholars criticized Bokeikhanov for lacking “revolutionary appeal,” and the text agrees in a narrow sense: he was not a political revolutionary. However, he sought deep change through political processes (Duma, congresses) and internal modernization. His strategy emphasized education, literature, and equitable land settlement rather than violent overthrow.",
-    "correct": ["q65o3"],
-    "options": [
-      { "id": "q65o1", "text": "A) He was a Bolshevik-style revolutionary advocating armed uprising." },
-      { "id": "q65o2", "text": "B) He rejected any social change and defended the old order." },
-      { "id": "q65o3", "text": "C) He pursued reform through political participation and modernization." },
-      { "id": "q65o4", "text": "D) He opposed education because it weakened Kazakh identity." }
-    ]
-  },
-  {
-    "id": 66,
-    "question": "16) February 1917: freedom and responsibility After the February Revolution, Bokeikhanov celebrated “freedom, equality, and brotherhood” and urged support for the new government, arguing that if it was to be strong, Kazakhs must also be strong. An article with Dulatov and Shoqaev admitted Kazakhs “did nothing” to gain freedom and must now help protect it through unity and action.",
-    "correct": ["q66o2"],
-    "options": [
-      { "id": "q66o1", "text": "A) He rejected the Provisional Government and demanded immediate war." },
-      { "id": "q66o2", "text": "B) He urged Kazakhs to support the new government and strengthen it." },
-      { "id": "q66o3", "text": "C) He argued freedom came only from Kazakh armed revolt." },
-      { "id": "q66o4", "text": "D) He claimed equality was impossible in a multi-national Russia." }
-    ]
-  },
-  {
-    "id": 67,
-    "question": "17) The Collapse of Federalism: Kadet limits on autonomy In 1917, Kadet leadership insisted regional autonomy must not “destroy” the unity of the Russian state and rejected dividing the country into sovereign units. Bokeikhanov grew frustrated: cultural and national autonomy were subordinated to “state unity,” and the party’s stance gained a “chauvinistic flavor.” This contributed to his resignation from the Kadets in June.",
-    "correct": ["q67o2"],
-    "options": [
-      { "id": "q67o1", "text": "A) Kadets supported full sovereignty for national regions, pleasing Bokeikhanov." },
-      { "id": "q67o2", "text": "B) Kadets prioritized state unity, limiting autonomy, pushing him to resign." },
-      { "id": "q67o3", "text": "C) Kadets ended migration to the steppe, satisfying Kazakh land demands." },
-      { "id": "q67o4", "text": "D) Kadets promoted independence for Alash already in spring 1917." }
-    ]
-  },
-  {
-    "id": 68,
-    "question": "18) Why the land issue drove political realignment Steppe congresses demanded an immediate stop to resettlement and fair land transfer. Yet Kadet congress resolutions were ambiguous: they claimed land belonged to the “toiling” agrarian population while also supporting broad organization of resettlement. The text presents this as decisive: Kadet indecision on land and autonomy helped push Bokeikhanov toward building Alash as a separate party.",
-    "correct": ["q68o2"],
-    "options": [
-      { "id": "q68o1", "text": "A) Kadet clarity on land reform convinced him to stay loyal." },
-      { "id": "q68o2", "text": "B) Kadet ambiguity on land and migration fueled his break and new party-building." },
-      { "id": "q68o3", "text": "C) Land was a minor issue compared to fashioning new symbols." },
-      { "id": "q68o4", "text": "D) Resettlement ended in 1917, so land ceased to matter politically." }
-    ]
-  },
-  {
-    "id": 69,
-    "question": "19) Federalism vs. independence: the 1917 dilemma At the First All-Kazakh Congress (July 1917), autonomy was debated. Some favored full independence, but Bokeikhanov argued territorial and cultural autonomy within a democratic federated Russia was best. He saw Kazakhs’ future with Russia if equality in politics, economics, society, and education could be achieved. Federalism was a strategic path, not surrender of identity.",
-    "correct": ["q69o2"],
-    "options": [
-      { "id": "q69o1", "text": "A) He always demanded immediate independence and rejected federation." },
-      { "id": "q69o2", "text": "B) He supported autonomy within a federated democratic Russia as the best course." },
-      { "id": "q69o3", "text": "C) He opposed equality reforms and wanted isolation from all politics." },
-      { "id": "q69o4", "text": "D) He argued only religious schools could protect Kazakh society." }
-    ]
-  },
-  {
-    "id": 70,
-    "question": "20) From federal hopes to independence: the Constituent Assembly crisis Alash leaders initially expected autonomy under the Provisional Government, and their program (published November 14, 1917) promoted civil rights, women’s rights, land restrictions, courts, militia, and Kazakh language education. When the Bolsheviks blocked the Constituent Assembly from convening (which Bokeikhanov had been elected to attend), Alash declared independence and condemned Bolshevik rule.",
-    "correct": ["q70o2"],
-    "options": [
-      { "id": "q70o1", "text": "A) Independence was declared because the Provisional Government granted full autonomy." },
-      { "id": "q70o2", "text": "B) Independence followed Bolshevik refusal to allow the Constituent Assembly to meet." },
-      { "id": "q70o3", "text": "C) Independence followed a treaty giving Alash control of all Russia." },
-      { "id": "q70o4", "text": "D) Independence occurred because Alash accepted Bolshevik political principles." }
+      {"id": "q50o1", "text": "Password"},
+      {"id": "q50o2", "text": "Monitor"},
+      {"id": "q50o3", "text": "Keyboard"},
+      {"id": "q50o4", "text": "Printer"}
     ]
   }
 ]
-
-
-
-
