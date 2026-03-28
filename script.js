@@ -64,7 +64,7 @@ function getWeightedRandomQuestions(count) {
 function startQuiz() {
   resultDiv.textContent = "";
   quizDiv.innerHTML = "";
-  currentQuestions = getWeightedRandomQuestions(70);
+  currentQuestions = getWeightedRandomQuestions(10);
 
   currentQuestions.forEach((q, index) => {
     const div = document.createElement("div");
